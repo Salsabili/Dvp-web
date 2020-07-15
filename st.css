@@ -1,0 +1,37 @@
+body{
+    background-image: url('https://images.unsplash.com/photo-1588420343618-6141b3784bce?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1400&q=80');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.titre{
+    text-decoration: overline;
+    font-family: fantasy;
+    font-style: oblique;
+    font: x-large;
+    text-align: center;
+}
+nav{
+    background-color: thistle;
+}
+#menu{
+    margin: auto;
+    padding: 15%;
+}
+
+#Panier{
+    display: flex;
+    justify-content: space-around;
+}
+input{
+    width: 40px;
+}
+
+.fas.fa-heart:visited {
+  background:darksalmon;
+}
+.fa, .fas {
+   
+    color: black;
+}
